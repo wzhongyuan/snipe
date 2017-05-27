@@ -1,0 +1,10 @@
+# Compile products
+*.pyc
+*.class
+target/
+
+# IDE specific
+.scala_dependencies
+.worksheet
+*.iml
+.idea/
